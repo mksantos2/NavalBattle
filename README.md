@@ -1,2 +1,2 @@
 # NavalBattle
-A Naval Battle multiplayer game. 
+A Naval Battle local multiplayer game. 
